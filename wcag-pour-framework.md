@@ -28,7 +28,7 @@ Information and the operation of user interface must communicate clearly and con
 - Make Web pages appear and operate in predictable ways.
 - Help users avoid and correct mistakes.
 
-# Robust
+## Robust
 
 Content must be written so that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
 
